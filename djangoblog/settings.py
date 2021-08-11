@@ -17,7 +17,7 @@ SECRET_KEY = "vs0a0lw!i!()b%zrid#20ipxei)7gf*5@vl_^8^ilk06^m6@%6"
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['127.0.0.1']
+ALLOWED_HOSTS = ['127.0.0.1','travelwithmotalu.herokuapp.com']
 
 
 # Application definition
